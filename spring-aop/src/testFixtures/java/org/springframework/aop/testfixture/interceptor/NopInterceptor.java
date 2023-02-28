@@ -59,5 +59,6 @@ public class NopInterceptor implements MethodInterceptor {
 	public int hashCode() {
 		return NopInterceptor.class.hashCode();
 	}
+	//heihei
 
 }
